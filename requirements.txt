@@ -1,0 +1,2 @@
+# Install on Raspberry Pi for actual PCA9685 hardware control.
+adafruit-circuitpython-servokit
